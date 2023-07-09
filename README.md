@@ -28,16 +28,6 @@ Developed the screen for adding tasks and associated functionality.
 Implemented the logic for displaying and editing existing tasks.
 Collaborated with database team to ensure proper storage and retrieval of task data.
 
-10947903(mariepearl): Responsible for integrating the app with a backend database.
-Designed the database schema to store user information and tasks.
-Implemented database connectivity using appropriate APIs and libraries.
-Worked with the task management team to ensure proper data synchronization.
-
-10947903(mariepearl): Responsible for integrating the app with a backend database.
-Designed the database schema to store user information and tasks.
-Implemented database connectivity using appropriate APIs and libraries.
-Worked with the task management team to ensure proper data synchronization.
-
 10949743(nkbiney): Implemented the functionality to delete tasks from the app.
 Developed the logic and UI elements for deleting tasks.
 Collaborated with the task management team to handle task deletion requests.
