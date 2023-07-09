@@ -41,7 +41,7 @@ Worked with the task management team to ensure proper data synchronization.
 10949743(nkbiney): Implemented the functionality to delete tasks from the app.
 Developed the logic and UI elements for deleting tasks.
 Collaborated with the task management team to handle task deletion requests.
-Ensured proper data handling and database synchronization upon task deletion.
+Ensured proper data handling and database synchronization upon task .
 
 
 
