@@ -23,5 +23,11 @@ Developed the login screen and associated logic for user authentication.
 Created the signup screen and implemented user registration process.
 Worked on data validation and error handling for login and signup.
 
+10954418(victoriaakakpovie): Implemented the task management functionality of the app.
+Developed the screen for adding tasks and associated functionality.
+Implemented the logic for displaying and editing existing tasks.
+Collaborated with database team to ensure proper storage and retrieval of task data.
+
+
 
 
