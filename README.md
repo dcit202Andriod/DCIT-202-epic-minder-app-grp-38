@@ -7,6 +7,7 @@ This application is called EpicMinder, which serves as a goal tracker app that a
 3. Users can also utilize the calendar page to view all scheduled and upcoming events.
 
 
+## Group Contributions
 Group leader 10953758 (francismaxug): Responsible for overall project management and coordination.
 Organized team meetings and facilitated communication among team members.
 Ensured project milestones and deadlines were met.
@@ -17,6 +18,10 @@ Created wireframes and mockups for the four screens of the app.
 Designed the layout, color scheme, and typography to enhance user experience.
 Collaborated with developers to ensure design implementation.
 
+10953091(AsanteAsareIsaac10953091): Implemented the login and signup functionality of the app.
+Developed the login screen and associated logic for user authentication.
+Created the signup screen and implemented user registration process.
+Worked on data validation and error handling for login and signup.
 
 
 
