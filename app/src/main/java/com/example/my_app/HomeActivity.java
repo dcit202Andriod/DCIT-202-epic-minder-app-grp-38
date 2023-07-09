@@ -47,7 +47,7 @@ public class HomeActivity extends AppCompatActivity {
         userNameTv=findViewById(R.id.userNameTv);
         userImageIv=findViewById(R.id.userProfileIv);
 
-
+// UserImageIv.setOnClickListener
         userImageIv.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
