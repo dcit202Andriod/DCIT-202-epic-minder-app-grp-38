@@ -60,11 +60,3 @@ Ensured compliance with app store guidelines and requirements
 
 
 
-# Here is the figma Design 
-![CalenderPage](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/103eafb4-66e8-437d-931c-b9df72302317)
-![HomePage](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/28130822-de82-4262-816a-de800cad63d2)
-![Login](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/c739390c-fb8b-409e-9db3-5497967354a2)
-![TaskPage](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/420fe02f-471b-424f-8f02-0dd194146870)
-![SignUp](https://github.com/dcit202Andriod/Group38-DCIT-202-epicMinder-app/assets/102633994/66f034ea-2d4c-4168-a11d-83d91ce192a4)
-
-
