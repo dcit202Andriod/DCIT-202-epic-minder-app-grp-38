@@ -18,7 +18,7 @@ Created wireframes and mockups for the four screens of the app.
 Designed the layout, color scheme, and typography to enhance user experience.
 Collaborated with developers to ensure design implementation.
 
-10953091(AsanteAsareIsaac10953091): Implemented the signup functionality of the app.
+10953091(AsanteAsareIsaac10953091): Implemented the login signup functionality of the app.
 Developed the login screen and associated logic for user authentication.
 Created the signup screen and implemented user registration process.
 Worked on data validation and error handling for login and signup.
