@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7FEF1EC"
+    android:orientation="vertical"
+    tools:context=".AddTaskActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bck"
+        android:padding="16dp"
+        android:background="#0D798C">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:paddingTop="5dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:id="@+id/left_icon"
+            android:src="@drawable/baseline_arrow_back_24"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Go Back"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="35dp"
+            android:textSize="25dp"
+            />
+
+    </RelativeLayout>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/addTaskLayout"
+    android:padding="10dp"
+    android:layout_below="@id/bck"
+    android:layout_height="wrap_content">
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Add Task">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/inputTaskName"
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:text="SAVE TASK"
+        android:textSize="20dp"
+        android:id="@+id/taskSaveBtn"
+        android:layout_marginTop="0dp"
+        android:padding="10dp"
+        android:layout_marginStart="0dp"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/prbBar"
+        android:padding="20dp"
+        android:layout_below="@id/addTaskLayout"
+        android:orientation="vertical">
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        android:id="@+id/progress"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="0dp"
+        android:padding="20dp"
+        android:visibility="gone"
+        android:layout_below="@id/prbBar"
+     android:orientation="vertical"
+        android:id="@+id/successLayout"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="160dp"
+            android:src="@drawable/baseline_check_circle_outline_24"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="15dp"
+            android:layout_marginStart="100dp"
+            android:layout_height="wrap_content"
+            android:textColor="#05AE6A"
+            android:text="Task Saved Successfully"
+            />
+    
+</LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779633766458",
+    "project_id": "my-app-dcit202",
+    "storage_bucket": "my-app-dcit202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779633766458:android:ece3640c572bf475df4503",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779633766458-r1e3ar0d6nr9a1s84vgi4f9otq4ge1qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOE65ySIpBIEJXyOHEoCbLFhz5P3vUMXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779633766458-r1e3ar0d6nr9a1s84vgi4f9otq4ge1qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
