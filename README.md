@@ -2,7 +2,7 @@
 This application is called EpicMinder, which serves as a goal tracker app that assists individuals in managing their day and improving productivity.
 
 ## How to use the EpicMinder App:
-
+- New users are required to sign up while existing users can sign in to access their task page.
 
 
 ## Group Contributions
