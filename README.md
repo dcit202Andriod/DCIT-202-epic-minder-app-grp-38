@@ -3,7 +3,8 @@ This application is called EpicMinder, which serves as a goal tracker app that a
 
 ## How to use the EpicMinder App:
 - New users are required to sign up while existing users can sign in to access their task page.
-- Users can login using their google email account and it will be authenticated through firebase with their emails. 
+- Users can login using their google email account and it will be authenticated through firebase with their emails.
+- After successful login after successful login, The name and image of the user (on the E-mail) will be taken by firebase and and displayed on the main page.
 
 
 ## Group Contributions
