@@ -6,7 +6,10 @@ This application is called EpicMinder, which serves as a goal tracker app that a
 - Users can login using their google email account and it will be authenticated through firebase with their emails.
 - After successful login after successful login, The name and image of the user (on the E-mail) will be taken by firebase and and displayed on the main page.
 - On the main page, users click on the add-task button to go to the add-task screen to add a task.
-- After tasks have been created, Users can long press on the task to either delete the task or set it to pending or completed.
+- After tasks have been created, Users can long press on the task to either delete the task or set it to pending or complete.
+- Users can log out from the app by clicking on their profile image displayed by firebase on the main screen and this will send them to the settings screen for them to log out.
+  
+
 
 
 ## Group Contributions
