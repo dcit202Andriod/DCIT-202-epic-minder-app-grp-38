@@ -42,11 +42,11 @@ The application developed by Group 38 is called EpicMinder. It is our hope that 
 - Implemented the task management functionality of the app.
 - Developed the screen for adding tasks and associated functionality.
 - Implemented the logic for displaying and editing existing tasks.
-- Collaborated with database team to ensure proper storage and retrieval of task data.
+- Collaborated with database team to ensure proper storage and retrieval of data.
 
 5. 10947903(mariepearl):
 - Responsible for integrating the app with a backend database.
-- Designed the database schema to store user information and tasks.
+- Designed the database scheme to store user information and tasks.
 - Implemented database connectivity using appropriate APIs and libraries.
 - Worked with the task management team to ensure proper data synchronization.
 
