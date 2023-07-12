@@ -3,5 +3,14 @@
     <color name="black">#FF000000</color>
     <color name="white">#E1DDDD</color>
     <color name = "blue">#0000FF</color>
+    <color name="colorOrange">#FFA500</color>
+    <color name="colorPink">#FFC0CB</color>
+    <color name="colorPurple">#800080</color>
+    <color name="colorBrown">#A52A2A</color>
+    <color name="colorTeal">#008080</color>
+    <color name="colorLime">#00FF00</color>
+    <color name="colorIndigo">#4B0082</color>
+    <color name="colorSalmon">#FA8072</color>
+
 
 </resources>
