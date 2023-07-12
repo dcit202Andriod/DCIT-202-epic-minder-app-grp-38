@@ -1,5 +1,5 @@
 # Group38-DCIT-202-EpicMinder-app
-This application is called EpicMinder, which serves as a goal tracker app that assists individuals in managing their day and improving productivity.
+The application developped ny Group 38 is called EpicMinder. It is our hope that EpicMinder will serve as a goal tracker application that assists individuals in managing their day and improving productivity.
 
 ## How to use the EpicMinder App:
 - New users are required to sign up while existing users can sign in to access their task page.
