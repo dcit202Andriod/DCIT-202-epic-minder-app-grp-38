@@ -3,9 +3,9 @@ The application developped ny Group 38 is called EpicMinder. It is our hope that
 
 ## How to use the EpicMinder App:
 - New users are required to sign up while existing users can sign in to access their task page.
-- Users can login using their google email account and it will be authenticated through firebase with their emails.
-- After successful login after successful login, The name and image of the user (on the E-mail) will be taken by firebase and and displayed on the main page.
-- On the main page, users click on the add-task button to go to the add-task screen to add a task.
+- Users can login using their Google email account and which will then be authenticated through Firebase with their emails.
+- After successfully logging in, the name and image of the user (on their E-mail account) will be taken by Firebase and and displayed on the main page.
+- On the main page, users can click on the add-task button to go to the add-task screen to add a task.
 - After tasks have been created, Users can long press on the task to either delete the task or set it to pending or complete.
 - Users can log out from the app by clicking on their profile image displayed by firebase on the main screen and this will send them to the settings screen for them to log out.
 - On the task page users can add, remove and schedule activities. They will receive reminders through alarms when the tasks are due.
