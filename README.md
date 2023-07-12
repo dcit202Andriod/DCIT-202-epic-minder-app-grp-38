@@ -50,8 +50,8 @@ Implemented session management to ensure proper user logout.
 Collaborated with the authentication team to handle logout requests.
 
 8. 10969676(10969676): Responsible for testing and ensuring the quality of the app.
-Conducted unit testing to identify and fix any bugs or issues.
-Performed integration testing to ensure seamless functionality across different screens.
+Conducted unit testing to identify and fix any bugs.
+Performed integration testing to ensure seamless functionality across different screens using the andriod studio.
 Collaborated with other team members to address any reported issues and improve app performance.
 
 9. 10980326: Responsible for documenting the app and its features.
