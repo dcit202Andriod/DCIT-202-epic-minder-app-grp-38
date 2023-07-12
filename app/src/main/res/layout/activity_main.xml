@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:text="Daily Tracker App"
         android:paddingBottom="40dp"
-        android:textSize="45dp"
+        android:textSize="46dp"
         android:textStyle="italic"
         android:id="@+id/sampleName"
         />
