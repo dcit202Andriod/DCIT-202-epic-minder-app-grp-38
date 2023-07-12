@@ -129,7 +129,7 @@ public class TaskListAdapter extends RecyclerView.Adapter<TaskListAdapter.ViewHo
 
 
 
-                return false;
+            return false;
             }
         });
 
