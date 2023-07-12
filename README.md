@@ -12,7 +12,7 @@ The application developped ny Group 38 is called EpicMinder. It is our hope that
 - Users can also utilize the calendar page to view all scheduled and upcoming events.
   
 
-#rights r
+#rig
 
 ## Group Contributions
 1. Group leader- 10953758 (francismaxug): Responsible for overall project management and coordination.
