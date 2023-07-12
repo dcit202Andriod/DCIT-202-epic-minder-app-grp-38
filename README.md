@@ -25,47 +25,56 @@ Organized team meetings and facilitated communication among team members.
 Ensured project milestones and deadlines were met.
 Assisted in resolving any conflicts or issues within the team.
 
-2. 10953537(njoya-alex): Responsible for designing the user interface and user experience of the app.
-Created wireframes and mockups for the four screens of the app.
-Designed the layout, color scheme, and typography to enhance user experience.
-Collaborated with developers to ensure design implementation.
+2. 10953537(njoya-alex):
+- Responsible for designing the user interface and user experience of the app.
+- Created wireframes and mockups for the four screens of the app.
+- Designed the layout, color scheme, and typography to enhance user experience.
+- Collaborated with developers to ensure design implementation.
 
-3. 10953091(AsanteAsareIsaac10953091): Implemented the login signup functionality of the app.
-Developed the login screen and associated logic for user authentication.
-Created the signup screen and implemented user registration process.
-Worked on data validation and error handling for login and signup.
+3. 10953091(AsanteAsareIsaac10953091):
+- Implemented the login signup functionality of the app.
+- Developed the login screen and associated logic for user authentication.
+- Created the signup screen and implemented user registration process.
+- Worked on data validation and error handling for login and signup.
 
-4. 10954418(victoriaakakpovie): Implemented the task management functionality of the app.
-Developed the screen for adding tasks and associated functionality.
-Implemented the logic for displaying and editing existing tasks.
-Collaborated with database team to ensure proper storage and retrieval of task data.
+4. 10954418(victoriaakakpovie):
+- Implemented the task management functionality of the app.
+- Developed the screen for adding tasks and associated functionality.
+- Implemented the logic for displaying and editing existing tasks.
+- Collaborated with database team to ensure proper storage and retrieval of task data.
 
-5. 10947903(mariepearl): Responsible for integrating the app with a backend database.
-Designed the database schema to store user information and tasks.
-Implemented database connectivity using appropriate APIs and libraries.
-Worked with the task management team to ensure proper data synchronization.
+5. 10947903(mariepearl):
+- Responsible for integrating the app with a backend database.
+- Designed the database schema to store user information and tasks.
+- Implemented database connectivity using appropriate APIs and libraries.
+- Worked with the task management team to ensure proper data synchronization.
 
-6. 10949743(nkbiney): Implemented the functionality to delete tasks from the app.
+6. 10949743(nkbiney):
+Implemented the functionality to delete tasks from the app.
 Developed the logic and UI elements for deleting tasks.
 Collaborated with the task management team to handle task deletion requests.
 Ensured proper data handling and database synchronization upon task deletion.
 
-7. 10986196 (Edith861): Implemented the logout functionality of the app.
+7. 10986196 (Edith861):
+Implemented the logout functionality of the app.
 Developed the logout screen and associated logic.
 Implemented session management to ensure proper user logout.
 Collaborated with the authentication team to handle logout requests.
 
-8. 10969676(10969676): Responsible for testing and ensuring the quality of the app.
+8. 10969676(10969676):
+Responsible for testing and ensuring the quality of the app.
 Conducted unit testing to identify and fix any bugs.
 Performed integration testing to ensure seamless functionality across different screens using the andriod studio.
 Collaborated with other team members to address any reported issues and improve app performance.
 
-9. 10980326: Responsible for documenting the app and its features.
-Created user guides and documentation to help users understand app functionality.
-Prepared technical documentation for developers to maintain and update the app.
-Ensured that the README file and any other necessary documentation were up to date.
+9. 10980326:
+- Responsible for documenting the app and its features.
+- Created user guides and documentation to help users understand app functionality.
+- Prepared technical documentation for developers to maintain and update the app.
+- Ensured that the README file and any other necessary documentation were up to date.
 
-10. 10964427 (paps004): Responsible for deploying the app to the Google Play Store.
+11. 10964427 (paps004):
+Responsible for deploying the app to the Google Play Store.
 Prepared the necessary assets and metadata for the app listing.
 Managed the release process, including versioning and signing the APK.
 Ensured compliance with app store guidelines and requirements.
